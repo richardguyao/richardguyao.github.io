@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://richardguyao.github.io</id>
     <title>richardguyao</title>
-    <updated>2020-02-06T06:16:41.429Z</updated>
+    <updated>2020-02-06T06:17:58.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://richardguyao.github.io"/>
     <link rel="self" href="https://richardguyao.github.io/atom.xml"/>
@@ -16,13 +16,12 @@
         <link href="https://richardguyao.github.io/post/2020-kai-shi">
         </link>
         <updated>2020-02-06T04:18:14.000Z</updated>
-        <content type="html"><![CDATA[<p>commens: false<br>
-兵荒马乱的新世代的开始<br>
+        <content type="html"><![CDATA[<p>兵荒马乱的新世代的开始<br>
 偶然间看到Gridea<br>
 blogspot里，上一次更新是七年前的2013年<br>
-阿里云上一次缴费记录是五年前的2015年<br>
-微信公众号里，固定在四年前的2016年<br>
-来看看能有多久的定力</p>
+阿里云里，上一次缴费记录是五年前的2015年<br>
+微信公众号里，固定在四年前的2016年</p>
+<p>来看看能有多久的定力</p>
 ]]></content>
     </entry>
 </feed>
