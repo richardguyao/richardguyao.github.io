@@ -1,8 +1,8 @@
 <html>
   <head>
-  <meta charset="utf-8" />
+    <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>标签列表 | richardguyao</title>
+<title>我的阅读 | richardguyao</title>
 <meta name="description" content="但行好事 莫问前程" />
 <link rel="shortcut icon" href="https://richardguyao.github.io/favicon.ico">
 <link rel="stylesheet" href="https://richardguyao.github.io/styles/main.css">
@@ -13,6 +13,9 @@
 <script src="https://richardguyao.github.io/media/js/pace.min.js"></script>
 <script src="https://richardguyao.github.io/media/js/view-image.min.js"></script>
 <script src="https://richardguyao.github.io/media/js/functions.js"></script>
+    <meta name="referrer" content="never">
+    <link rel="stylesheet" href="https://richardguyao.github.io/media/js/Bmdb.min.css">
+    <script type='text/javascript' src='https://richardguyao.github.io/media/js/Bmdb.min.js'></script>
   </head>
   <body>
     <!-- start: #wrapper -->
@@ -54,23 +57,13 @@
         <div class="clear"></div>
       </header>
 
-      <main id="tags" class="main fullcover no-sidebar content">
+      <main id="friends" class="main fullcover no-sidebar content">
         <div class="grid-container module-wrapper enable-masonry aos-init aos-animate" data-aos="fade-up">
         <div class="epcl-page-wrapper">
-          <div class="left-content grid-70 np-mobile widget_epcl_related_articles">
-
-          <div class="widget_tag_cloud tagcloud">
-            
-              <a href="https://richardguyao.github.io/tag/Bh_kWTV_a" class="ctag ctag-0 ctag-Bh_kWTV_a" aria-label="">Diary</a>
-            
-          </div>
+          <div class="section-content" style="margin-top:3em;"></div>
         </div>
-
-        </div>
-          </div>
         </div>
       </main>
-
         <footer id="footer" class="grid-container">
         <div class="widgets row gradient-effect">
             <div class="default-sidebar border-effect">
@@ -154,6 +147,15 @@
         </a>
     </footer>
     <div class="clear"></div>
+    <script>
+    new Bmdb({
+      type: 'books',
+      selector: '.section-content',
+      secret: '0bba46738324c778ad2da662837c14d2c1e5bceb22e3729febc9fd3677bdcea5',
+      noMoreText: '没有更多数据了',
+      limit: 30
+    })
+    </script>
     </div>
     <!-- end: #wrapper -->
   </body>
