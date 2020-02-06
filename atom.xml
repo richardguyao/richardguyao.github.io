@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://richardguyao.github.io</id>
-    <title>richardguyao@blog</title>
-    <updated>2020-02-06T03:59:04.829Z</updated>
+    <title>richardguyao</title>
+    <updated>2020-02-06T04:09:43.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://richardguyao.github.io"/>
     <link rel="self" href="https://richardguyao.github.io/atom.xml"/>
-    <subtitle>但行好事莫问前程</subtitle>
+    <subtitle>但行好事 莫问前程</subtitle>
     <logo>https://richardguyao.github.io/images/avatar.png</logo>
     <icon>https://richardguyao.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, richardguyao@blog</rights>
+    <rights>All rights reserved 2020, richardguyao</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://richardguyao.github.io/post/hello-gridea</id>
