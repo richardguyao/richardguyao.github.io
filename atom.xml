@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://richardguyao.github.io</id>
     <title>richardguyao</title>
-    <updated>2020-02-07T08:01:15.230Z</updated>
+    <updated>2020-02-07T08:16:41.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://richardguyao.github.io"/>
     <link rel="self" href="https://richardguyao.github.io/atom.xml"/>
@@ -17,7 +17,7 @@
         </link>
         <updated>2020-02-07T07:42:38.000Z</updated>
         <content type="html"><![CDATA[<p>2019年1月的订单，一年后的今天拿出来拼<br>
-<img src="https://richardguyao.github.io/post-images/1581062409304.JPG" alt="" loading="lazy"></p>
+<photos><img src="https://tva1.sinaimg.cn/large/0082zybpgy1gbnwmtacpxj31900u01bf.jpg" alt="" loading="lazy"><img src="https://tva1.sinaimg.cn/large/0082zybpgy1gbnwo5xz38j31900u04ew.jpg" alt="" loading="lazy"><img src="https://tva1.sinaimg.cn/large/0082zybpgy1gbnwok8plej31900u0kaq.jpg" alt="" loading="lazy"></photos></p>
 ]]></content>
     </entry>
     <entry>
