@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://richardguyao.github.io</id>
     <title>richardguyao</title>
-    <updated>2020-02-06T06:51:11.918Z</updated>
+    <updated>2020-02-07T06:58:14.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://richardguyao.github.io"/>
     <link rel="self" href="https://richardguyao.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://richardguyao.github.io/images/avatar.png</logo>
     <icon>https://richardguyao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, richardguyao</rights>
+    <entry>
+        <title type="html"><![CDATA[R.I.P]]></title>
+        <id>https://richardguyao.github.io/post/rip</id>
+        <link href="https://richardguyao.github.io/post/rip">
+        </link>
+        <updated>2020-02-06T18:43:33.000Z</updated>
+        <content type="html"><![CDATA[<p>庚子年正月十三晚<br>
+记忆里已回忆不起上一次全网如此同悲共愤是什么时候<br>
+然后 然后第二天太阳照常升起<br>
+哀的多了 心也就死了</p>
+<blockquote>
+<p>“如果尖锐的批评完全消失，温和的批评将会变得刺耳。<br>
+如果温和的批评也不被允许，沉默将被认为居心叵测。<br>
+如果沉默也不再允许，赞扬不够卖力将是一种罪行。<br>
+如果只允许一种声音存在，那么，唯一存在的那个声音就是谎言。”</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020 开始]]></title>
         <id>https://richardguyao.github.io/post/2020-kai-shi</id>
