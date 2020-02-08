@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://richardguyao.github.io</id>
     <title>richardguyao</title>
-    <updated>2020-02-07T08:16:41.476Z</updated>
+    <updated>2020-02-08T11:21:47.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://richardguyao.github.io"/>
     <link rel="self" href="https://richardguyao.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://richardguyao.github.io/images/avatar.png</logo>
     <icon>https://richardguyao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, richardguyao</rights>
+    <entry>
+        <title type="html"><![CDATA[SDCS #02 Crossbone Gundam X1]]></title>
+        <id>https://richardguyao.github.io/post/sdcs-02-crossbone-gundam-x1</id>
+        <link href="https://richardguyao.github.io/post/sdcs-02-crossbone-gundam-x1">
+        </link>
+        <updated>2020-02-08T11:16:06.000Z</updated>
+        <content type="html"><![CDATA[<p>每日一拼</p>
+<p><photos><img src="https://tva1.sinaimg.cn/large/0082zybpgy1gbp7lekw5kj31900u0trs.jpg" alt="" loading="lazy"><img src="https://tva1.sinaimg.cn/large/0082zybpgy1gbp7lwacl4j31900u0khs.jpg" alt="" loading="lazy"><img src="https://tva1.sinaimg.cn/large/0082zybpgy1gbp7m9rsu8j31900u0qv5.jpg" alt="" loading="lazy"></photos></p>
+<p>拼完发现 神之一手不知何时被崩了😭</p>
+<p><photos><img src="https://tva1.sinaimg.cn/large/0082zybpgy1gbp7noz7b1j30u0190hdu.jpg" alt="" loading="lazy"></photos></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SDCS #05 ZETA GUNDAM]]></title>
         <id>https://richardguyao.github.io/post/sdcs-05-zeta-gundam</id>
