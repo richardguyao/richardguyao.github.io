@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://richardguyao.github.io</id>
     <title>richardguyao</title>
-    <updated>2020-02-08T11:43:08.458Z</updated>
+    <updated>2020-02-10T12:22:40.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://richardguyao.github.io"/>
     <link rel="self" href="https://richardguyao.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://richardguyao.github.io/images/avatar.png</logo>
     <icon>https://richardguyao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, richardguyao</rights>
+    <entry>
+        <title type="html"><![CDATA[ARX-7 ARBALEST Ver.IV]]></title>
+        <id>https://richardguyao.github.io/post/arx-7-arbalest-veriv</id>
+        <link href="https://richardguyao.github.io/post/arx-7-arbalest-veriv">
+        </link>
+        <updated>2020-02-10T12:15:32.000Z</updated>
+        <content type="html"><![CDATA[<p>强弩还是比高达们帅啊<br>
+偶尔换个种类的确很有效</p>
+<p><photos><img src="https://tva1.sinaimg.cn/large/0082zybpgy1gbrkldzyixj31910u04q2.jpg" alt="" loading="lazy"><img src="https://tva1.sinaimg.cn/large/0082zybpgy1gbrkmfddmtj30u01904qp.jpg" alt="" loading="lazy"><img src="https://tva1.sinaimg.cn/large/0082zybpgy1gbrknwuu5oj30u01901fo.jpg" alt="" loading="lazy"><img src="https://tva1.sinaimg.cn/large/0082zybpgy1gbrko58ghuj30u01901dx.jpg" alt="" loading="lazy"></photos></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SDCS #02 Crossbone Gundam X1]]></title>
         <id>https://richardguyao.github.io/post/sdcs-02-crossbone-gundam-x1</id>
