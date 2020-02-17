@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://richardguyao.github.io</id>
     <title>richardguyao</title>
-    <updated>2020-02-17T19:36:39.955Z</updated>
+    <updated>2020-02-17T19:37:46.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://richardguyao.github.io"/>
     <link rel="self" href="https://richardguyao.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, richardguyao</rights>
     <entry>
         <title type="html"><![CDATA[Happy Birthday ]]></title>
-        <id>https://richardguyao.github.io/post/happy-birthday</id>
-        <link href="https://richardguyao.github.io/post/happy-birthday">
+        <id>https://richardguyao.github.io/post/happy-birthday/</id>
+        <link href="https://richardguyao.github.io/post/happy-birthday/">
         </link>
         <updated>2020-02-15T19:26:40.000Z</updated>
         <content type="html"><![CDATA[<p>时光车轮滚滚无法阻挡</p>
@@ -22,8 +22,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[ARX-7 ARBALEST Ver.IV]]></title>
-        <id>https://richardguyao.github.io/post/arx-7-arbalest-veriv</id>
-        <link href="https://richardguyao.github.io/post/arx-7-arbalest-veriv">
+        <id>https://richardguyao.github.io/post/arx-7-arbalest-veriv/</id>
+        <link href="https://richardguyao.github.io/post/arx-7-arbalest-veriv/">
         </link>
         <updated>2020-02-10T12:15:32.000Z</updated>
         <content type="html"><![CDATA[<p>强弩还是比高达们帅啊<br>
@@ -33,8 +33,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[SDCS #02 Crossbone Gundam X1]]></title>
-        <id>https://richardguyao.github.io/post/sdcs-02-crossbone-gundam-x1</id>
-        <link href="https://richardguyao.github.io/post/sdcs-02-crossbone-gundam-x1">
+        <id>https://richardguyao.github.io/post/sdcs-02-crossbone-gundam-x1/</id>
+        <link href="https://richardguyao.github.io/post/sdcs-02-crossbone-gundam-x1/">
         </link>
         <updated>2020-02-08T11:16:06.000Z</updated>
         <content type="html"><![CDATA[<p>每日一拼</p>
@@ -45,8 +45,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[SDCS #05 ZETA GUNDAM]]></title>
-        <id>https://richardguyao.github.io/post/sdcs-05-zeta-gundam</id>
-        <link href="https://richardguyao.github.io/post/sdcs-05-zeta-gundam">
+        <id>https://richardguyao.github.io/post/sdcs-05-zeta-gundam/</id>
+        <link href="https://richardguyao.github.io/post/sdcs-05-zeta-gundam/">
         </link>
         <updated>2020-02-07T07:42:38.000Z</updated>
         <content type="html"><![CDATA[<p>2019年1月的订单，一年后的今天拿出来拼<br>
@@ -55,8 +55,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[R.I.P]]></title>
-        <id>https://richardguyao.github.io/post/rip</id>
-        <link href="https://richardguyao.github.io/post/rip">
+        <id>https://richardguyao.github.io/post/rip/</id>
+        <link href="https://richardguyao.github.io/post/rip/">
         </link>
         <updated>2020-02-06T18:43:33.000Z</updated>
         <content type="html"><![CDATA[<p>庚子年正月十三晚<br>
@@ -73,8 +73,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2020 开始]]></title>
-        <id>https://richardguyao.github.io/post/2020-kai-shi</id>
-        <link href="https://richardguyao.github.io/post/2020-kai-shi">
+        <id>https://richardguyao.github.io/post/2020-kai-shi/</id>
+        <link href="https://richardguyao.github.io/post/2020-kai-shi/">
         </link>
         <updated>2020-02-06T04:18:14.000Z</updated>
         <content type="html"><![CDATA[<p>兵荒马乱的新世代的开始<br>
